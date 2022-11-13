@@ -8,6 +8,7 @@ class Tabledeta extends React.Component {
       emp: [
         { name: 'mani', salary: '60000' },
         { name: 'bagi', salary: '70000' },
+        { name: 'hari', salary: '70000' }
       ],
     };
   }
